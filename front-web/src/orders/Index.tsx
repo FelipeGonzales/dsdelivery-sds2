@@ -1,8 +1,5 @@
-import { NavigationBarItem } from "typescript"
 import { toast } from 'react-toastify';
-
 import './styles.css';
-import { ReactComponent as Logo} from './logo.svg';
 import StepsHeader from './StepsHeader';
 import ProductsList from './ProductsList';
 import { useEffect, useState } from "react";

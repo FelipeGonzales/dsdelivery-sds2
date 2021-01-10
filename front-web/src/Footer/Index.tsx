@@ -1,9 +1,7 @@
-import { NavigationBarItem } from "typescript"
 import './styles.css';
 import { ReactComponent as YouTubeIcon} from './youtube.svg';
 import { ReactComponent as LinkedinIcon} from './linkedin.svg';
 import { ReactComponent as InstagramIcon} from './instagram.svg';
-import { ReactComponent as Logo} from './logo.svg';
 
 function Footer() {
     return (

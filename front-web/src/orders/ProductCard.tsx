@@ -1,4 +1,3 @@
-import { formatDiagnostic } from "typescript";
 import { formatPrice } from "./helpers";
 
 import {Product } from './types';
