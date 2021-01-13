@@ -1,6 +1,5 @@
 import React from 'react';
 import { StyleSheet, View, Text, Alert, Linking } from 'react-native';
-import "intl/locale-data/jsonp/pt-BR.js";
 import { useNavigation } from '@react-navigation/native';
 import Header from '../header';
 import { Order } from '../types';
