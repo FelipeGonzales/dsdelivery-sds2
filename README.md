@@ -3,7 +3,7 @@
 Projeto realizado durante a **Semana DevSuperior 2.0** 🚀  
 
 ## 📖 Sobre  
-O **DS Delivery** tem por objetivo criar um sistema capaz de realizar pedidos em uma pizzaria fictícia.  
+O **DS Delivery** tem por objetivo criar um sistema capaz de realizar pedidos em pizzarias.  
 
 Durante o desenvolvimento foi criada uma API com quatro métodos:  
 
